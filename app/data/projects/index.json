@@ -31,6 +31,10 @@
     {
       "id": "WaterLock",
       "name": "WaterLock"
+    },
+    {
+      "id": "Villa",
+      "name": "Villa"
     }
   ]
 }
